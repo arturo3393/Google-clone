@@ -240,4 +240,19 @@ footer ul li a {
     width: 90%;
   }
   
+  .main-input{
+    /* background-color: red; */
+    margin: 0 auto;
+    padding-left: 2%;
+  }
+
+  footer {
+    position: fixed;
+    padding-bottom: 5%;
+
+  }
+
+  footer section li a {
+   text-align: center;
+  }
 }
